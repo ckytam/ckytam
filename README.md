@@ -21,3 +21,4 @@ __E-Mail: <zhuorongtan@qq.com>__
 ![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
 
 
+[![ckytam's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ckytam&layout=compact)](https://github.com/ckytam)
