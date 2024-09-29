@@ -5,7 +5,7 @@ Believing in long-termism, I am passionate about open.
 
 I enjoy coding for fun😋 and making toy projects🎈.
 
-__E-Mail: <zhuorongtan@qq.com>__
+__E-Mail: <tam@gmail.com>__
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
